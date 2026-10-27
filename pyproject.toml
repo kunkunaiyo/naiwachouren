@@ -9,4 +9,4 @@ product = "奶蛙抽人"
 org = "com.mytest"
 
 [tool.flet.icons]
-android = "logo.png"
+android = "logo.svg"
